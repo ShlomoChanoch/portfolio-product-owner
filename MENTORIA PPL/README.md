@@ -1,4 +1,4 @@
-# 🚀 Portfólio de Product Owner (PO) - Projeto Simulação PPL
+# 🚀 Portfólio de Product Owner (PO) - Projeto Mentoria PPL
 Este repositório serve como meu portfólio prático de Product Owner, aplicando os conhecimentos e as melhores práticas aprendidas na mentoria Professional Product Leader (PPL) do Canal Valor.
 
 O objetivo é demonstrar minha capacidade de descoberta, estratégia, priorização e gestão de backlog, essenciais para transicionar para a área de Produto.
@@ -64,3 +64,4 @@ Neste repositório, você encontrará os principais entregáveis do meu trabalho
 * **Matriz de Priorização** - Detalhes sobre a técnica de priorização utilizada estão na Sprint 3.
 
 Fique à vontade para explorar os artefatos e entrar em contato para discutir o processo!
+
