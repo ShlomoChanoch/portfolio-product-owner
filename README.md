@@ -1,7 +1,7 @@
 # Portfolio Product Owner
 Portfólio de Product Owner (PO) com estudos de caso e aplicações práticas. Este repositório é uma demonstração prática de como eu executo as responsabilidades de um PO: Estratégia de Produto, Roadmap de Produto, Gestão de Backlog, Priorização, Refinamento, Criação de Histórias de Usuário e Visão de Produto. Projetos desenvolvidos como simulações para aprendizado.
 
-## 1 - MENTORIA PPL – CANAL VALOR (Agosto de 2025 – Em curso)
+## 1 - Aplicativo de Gerenciamento de Lista de Compras - MENTORIA PPL – CANAL VALOR (Agosto de 2025 – Em curso)
 
 Formação completa e especializada para atuar como **Product Owner / Product Manager**, com foco na gestão estratégica, tática e operacional de todo o ciclo de vida do produto, desde a Descoberta (Discovery) até a entrega e otimização por métricas.
 
