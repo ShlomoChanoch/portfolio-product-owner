@@ -3,6 +3,8 @@ Este repositório serve como meu portfólio prático de Product Owner, aplicando
 
 O objetivo é demonstrar minha capacidade de descoberta, estratégia, priorização e gestão de backlog, essenciais para transicionar para a área de Produto.
 
+O resumo do estudo de caso se encontra [aqui](https://github.com/ShlomoChanoch/portfolio-product-owner/blob/main/MENTORIA%20PPL/Loop.md). 
+
 ## 🎯 O Produto: Gerenciador de Lista de Compras
 O produto desenvolvido e gerenciado neste projeto é um aplicativo de Gerenciamento de Lista de Compras.
 
@@ -64,5 +66,6 @@ Neste repositório, você encontrará os principais entregáveis do meu trabalho
 * **Matriz de Priorização** - Detalhes sobre a técnica de priorização utilizada estão na Sprint 3.
 
 Fique à vontade para explorar os artefatos e entrar em contato para discutir o processo!
+
 
 
