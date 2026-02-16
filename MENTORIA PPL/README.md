@@ -52,6 +52,26 @@ O desenvolvimento do produto foi dividido em Sprints (ciclos curtos de trabalho)
 
 Meu foco foi proteger o time de desvios, esclarecer dúvidas sobre as Histórias de Usuário e realizar as reviews ao final de cada Sprint para garantir que o produto entregue estivesse alinhado com a visão.
 
+### 4. Refinamento de Backlog
+
+Através do Método DAP (Detalhar, Avaliar e Priorizar), desenvolvi o refinamento de itens do backlog com critérios de aceite, as sete Dimensões do Produto, Cenários Gherkin BDD e critérios de aceite.
+
+### 5. Planejamento de Trabalho
+
+Realizei o planejamento do desenvolvimento e entrega do produto com boas práticas, técnicas de estimativa, dimensionamento da capacidade do time e Definition of Ready (DoR).
+
+### 6. Acompanhamento do Desenvolvimento
+
+Acompanhei o andamento do desenvolvimento de funcionalidades, entendendo a função da daily e do gerenciamento de expectativas das partes interessadas. Também gerenciei o fluxo de trabalho e fiz a gestão das dependências entre as Histórias de Usuário.
+
+### 7. Apresentação e Validação das Demandas
+
+Inspecionei o cumprimento das demandas do time de engenharia, revisão a entrega das tarefas através de critérios de aceite.
+
+### 8. Métricas de Eficiência para Times de Produto
+
+Aprendi a trabalhar com métricas de eficiência para trazer previsibilidade, replicabilidade e escalabilidade de entrega de produto. Fornecer projeções confiáveis e legítimas acerca do produto é vital para qualquer negócio.
+
 ## 📦 Artefatos Disponíveis
 Neste repositório, você encontrará os principais entregáveis do meu trabalho como Product Owner.
 
@@ -66,6 +86,7 @@ Neste repositório, você encontrará os principais entregáveis do meu trabalho
 * **Matriz de Priorização** - Detalhes sobre a técnica de priorização utilizada estão na Sprint 3.
 
 Fique à vontade para explorar os artefatos e entrar em contato para discutir o processo!
+
 
 
 
